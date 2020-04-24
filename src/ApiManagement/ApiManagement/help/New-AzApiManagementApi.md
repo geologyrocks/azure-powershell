@@ -69,7 +69,7 @@ ResourceGroupName             : Api-Default-West-US
 ServiceName                   : contoso
 ```
 
-This command creates an API `echoapiv3` in ApiVersionSet `xmsVersionSet` and copies all operation, Tags and Policies from source Api `echo-api`. It overrides the SubscriptionRequired, ServiceUrl, Path, Protocols
+This command creates an API `echoapiv4` in ApiVersionSet `xmsVersionSet` and copies all operation, Tags and Policies from source Api `echo-api`. It overrides the SubscriptionRequired, ServiceUrl, Path, Protocols
 
 ## PARAMETERS
 
